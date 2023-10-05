@@ -1,0 +1,6 @@
+database	/biorg/data/DB/KRAKEN2/Bacteria/
+reportzerocounts	True
+threads	48
+report	d_1004.kreport
+fastq1	FASTQ/d_1004_1.fastq
+fastq2	FASTQ/d_1004_2.fastq

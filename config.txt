@@ -1,0 +1,4 @@
+Prefix pipelines/Kidney/
+#Plugin BrackenBuild inputfile Parameters/parameters.brackenbuild.txt outputfile none
+#Plugin Kraken2 inputfile Parameters/parameters.kraken2.txt outputfile d_1004.txt
+Plugin Bracken inputfile Parameters/parameters.bracken.txt outputfile d_1004-abundance.txt
